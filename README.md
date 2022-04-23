@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Qgaming
-- 👀 I’m interested in Minecraft servers, Web development
-- 🌱 I’m currently learning Javascript, PHP, Machine learning.
-- also started doing network engineering and cloud computing.
+- 👀 I’m interested in Minecraft servers, linux and server stuff.
+- 🌱 I’m currently not working on any big projects.
+- ☁️ I also started doing networking.
 
 <!---
 Qgaming/Qgaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
