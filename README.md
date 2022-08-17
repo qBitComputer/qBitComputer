@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Qgaming
-- 👀 I’m interested in Minecraft servers, linux and server stuff.
+- 👀 I’m interested in Minecraft servers, linux, servers and microcomputers(such as Arduino and RPI).
 - 🌱 I’m currently not working on any big projects.
 - ☁️ I also started doing networking.
 
