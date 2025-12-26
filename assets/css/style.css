@@ -2,7 +2,7 @@
 
 body {
   font-size: 14px;
-  background: none;
+  background-color: #000;
 }
 header {
     background-color: #fff;
@@ -27,5 +27,5 @@ code,pre {
 }
 
 a.header, header a {
-    color: #C30000;
+    color: #0174d3;
 }
