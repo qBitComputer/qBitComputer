@@ -1,5 +1,5 @@
 # Hello world!
 Hello world!
-```javascript
-var h = 3;
+```python
+print('Hello, World!')
 ```
