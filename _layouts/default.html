@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header"><a class="site-title" href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
