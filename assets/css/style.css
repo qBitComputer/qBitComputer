@@ -6,22 +6,3 @@ body {
   background: none
 
 }
-header {
-    background-color: #fff;
-    border: none;
-    color: #000;
-    
-}
-h1.header {
-    color: #000;
-}
-
-code,pre {
-    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-    font-size: 14px;
-    padding: 4px;
-}
-
-a.header, header a {
-    color: #000;
-}
